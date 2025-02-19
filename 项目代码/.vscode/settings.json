@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pwm.h": "c",
+        "ds_timer.h": "c",
+        "ds18b20.h": "c",
+        "onewire.h": "c"
+    }
+}
